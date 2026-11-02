@@ -10,50 +10,29 @@ public class App
         Random md = new Random();
         md.nextDouble();
         
-        int respuestamenu=0, nivelconocimiento=0;
-        
+        int nivelconocimiento=0;
         
         System.out.println("BIENVENIDO A 100 FRACASADOS DICEN.");
-        
-        System.out.println(" ");
-        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
-        System.out.println(" ");
-        
-        
-        
-        System.out.println("ELIJA SU NIVEL DE CONOCIMIENTO:");
-        
-        System.out.println(" ");
-        
-        System.out.println("1. ELITE BALL KNOWLEDEGDE.");
-        System.out.println("2. ALTO");
-        System.out.println("2. MEDIO");
-        System.out.println("3. MEIDO BAJO");
-        System.out.println("5. MUY BAJO");
-        System.out.println("SALIR (otro)");
-        
-        System.out.println(" ");
-        
-        respuestamenu = input.nextInt();
-        
-        System.out.println(" ");
-        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
-        System.out.println(" ");
-        
-        
-        
-        
-        
-        
-        switch (respuestamenu)
-        {
-            case 1: nivelconocimiento=1; break;
-            case 2: nivelconocimiento=2; break;
-            case 3: nivelconocimiento=3; break;
-            case 4: nivelconocimiento=4; break;
-            case 5: nivelconocimiento=5; break;
-            default: nivelconocimiento=0; break;
-        }
+        do {
+            System.out.println(" ");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println(" ");
+            System.out.println("ELIJA SU NIVEL DE CONOCIMIENTO:");
+            System.out.println(" ");
+            System.out.println("1. ELITE BALL KNOWLEDEGDE.");
+            System.out.println("2. ALTO");
+            System.out.println("2. MEDIO");
+            System.out.println("3. MEIDO BAJO");
+            System.out.println("5. MUY BAJO");
+            System.out.println("SALIR (otro)");
+            System.out.println(" ");
+
+            nivelconocimiento = input.nextInt();
+
+            System.out.println(" ");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println(" ");
+        } while (nivelconocimiento < 1 || nivelconocimiento > 5);
         
         
         
