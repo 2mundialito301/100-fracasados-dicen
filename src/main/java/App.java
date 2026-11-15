@@ -11,17 +11,16 @@ public class App
         md.nextDouble();
         
         int puntos=0, numeropregunta=1;
-        int orden[] = new int [4];
+        int orden[] = new int [5];
         
         int numero = (int)(md.nextDouble()*4.0);
         numero++;
         
         switch (numero)
         {
-            case 1: orden = new int [] {1, 2, 3, 4}; break;
-            case 2: orden = new int [] {4, 3, 2, 1}; break;
-            case 3: orden = new int [] {3, 1, 4, 2}; break;
-            case 4: orden = new int [] {2, 4, 1, 3}; break;
+            case 1: orden = new int [] {1, 2, 5, 3, 4}; break;
+            case 2: orden = new int [] {4, 3, 2, 1, 5}; break;
+            case 3: orden = new int [] {5, 1, 3, 4, 2}; break;
         }
         
 
@@ -46,6 +45,11 @@ public class App
             else if (orden[i] == 4)
             {
                 puntos = pregunta4(puntos);
+                System.out.println("PUNTOS TOTALES: " +puntos);
+            }
+            else if (orden[i] == 5)
+            {
+                puntos = pregunta5(puntos);
                 System.out.println("PUNTOS TOTALES: " +puntos);
             }
         }
@@ -296,12 +300,12 @@ public class App
                 System.out.println("2. --- --- ---");
             
             if (rta3==1)
-                System.out.println("2. Avellaneda --- 15pts");
+                System.out.println("3. Avellaneda --- 15pts");
             else
                 System.out.println("3. --- --- ---");
             
             if (rta4==1)
-                System.out.println("2. Lomas de Zamora --- 12pts");
+                System.out.println("4. Lomas de Zamora --- 12pts");
             else
                 System.out.println("4. --- --- ---");
             
@@ -454,12 +458,12 @@ public class App
                 System.out.println("2. --- --- ---");
             
             if (rta3==1)
-                System.out.println("2. Moron --- 13pts");
+                System.out.println("3. Moron --- 13pts");
             else
                 System.out.println("3. --- --- ---");
             
             if (rta4==1)
-                System.out.println("2. Merlo --- 10pts");
+                System.out.println("4. Merlo --- 10pts");
             else
                 System.out.println("4. --- --- ---");
             
@@ -612,12 +616,12 @@ public class App
                 System.out.println("2. --- --- ---");
             
             if (rta3==1)
-                System.out.println("2. San Isidro --- 16pts");
+                System.out.println("3. San Isidro --- 16pts");
             else
                 System.out.println("3. --- --- ---");
             
             if (rta4==1)
-                System.out.println("2. Vicente Lopez --- 14pts");
+                System.out.println("4. Vicente Lopez --- 14pts");
             else
                 System.out.println("4. --- --- ---");
             
@@ -675,6 +679,480 @@ public class App
             System.out.println("4. San Miguel --- 14pts");
             System.out.println("5. Vicente Lopez --- 12pts");
             System.out.println("6. Gral. San Martin --- 9pts");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        }
+            
+        return puntos;
+    }
+
+
+
+
+
+
+
+
+
+
+    public static int pregunta5 (int puntos)
+    {
+        Scanner input = new Scanner (System.in);
+        int resueltopregunta=0;
+        int fallos=0, correcta=0, mensajefinal=0;
+        
+        int rta1=0, rta2=0, rta3=0, rta4=0, rta5=0, rta6=0;
+        String respuestapregunta = " ";
+            
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println("DIGA 6 PROCERES ARGENTINOS:");
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println("1. --- --- ---"); // San Martin - 31p --- 31pt
+        System.out.println("2. --- --- ---"); // Belgrano - 24p --- 55pt
+        System.out.println("3. --- --- ---"); // Sarmiento - 13p --- 68pt
+        System.out.println("4. --- --- ---"); // Rosas - 9p --- 77pt
+        System.out.println("5. --- --- ---"); // Saavedra - 6p --- 83pt
+        System.out.println("6. --- --- ---"); // Guemes - 4p --- 87pt
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        
+        while (resueltopregunta==0)
+        {
+            respuestapregunta = input.nextLine();
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("DIGA 6 PROCERES ARGENTINOS:");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            if (respuestapregunta.equalsIgnoreCase("San Martin") && rta1 == 0)
+            {
+                rta1 = 1;
+                puntos += 31;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Belgrano") && rta2 == 0)
+            {
+                rta2 = 1;
+                puntos += 24;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Sarmiento") && rta3 == 0)
+            {
+                rta3 = 1;
+                puntos += 13;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rosas") && rta4 == 0)
+            {
+                rta4 = 1;
+                puntos += 9;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Saavedra") && rta5 == 0)
+            {
+                rta5 = 1;
+                puntos += 6;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Guemes") && rta6 == 0)
+            {
+                rta6 = 1;
+                puntos += 4;
+                correcta = 1;
+            }
+            
+            
+            
+            if (rta1==1)
+                System.out.println("1. San Martin --- 31pts");
+            else
+                System.out.println("1. --- --- ---");
+            
+            if (rta2==1)
+                System.out.println("2. Belgrano --- 24pts");
+            else
+                System.out.println("2. --- --- ---");
+            
+            if (rta3==1)
+                System.out.println("3. Sarmiento --- 13pts");
+            else
+                System.out.println("3. --- --- ---");
+            
+            if (rta4==1)
+                System.out.println("4. Rosas --- 9pts");
+            else
+                System.out.println("4. --- --- ---");
+            
+            if (rta5==1)
+                System.out.println("5. Saavedra --- 6pts");
+            else
+                System.out.println("5. --- --- ---");
+            
+            if (rta6==1)
+                System.out.println("6. Guemes --- 4pts");
+            else
+                System.out.println("6. --- --- ---");
+            
+            
+            
+            if (correcta == 0)
+            {
+                fallos++;
+            }
+            correcta=0;
+            
+            if (fallos == 3)
+            {
+                resueltopregunta = 1;
+            }
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("PUNTOS: " +puntos);
+            System.out.println("FALLOS: " +fallos );
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            
+            if (rta1==1 && rta2==1 && rta3==1 && rta4==1 && rta5==1 &&rta6==1)
+            {
+                resueltopregunta = 1;
+                mensajefinal = 1;
+            }
+        }
+        
+        if (mensajefinal == 1)
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA COMPLETADA");
+            System.out.println(" ");
+        }
+        else
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA PERDIDA");
+            System.out.println(" ");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("1. San Martin --- 31pts");
+            System.out.println("2. Belgrano --- 24pts");
+            System.out.println("3. Sarmiento --- 13pts");
+            System.out.println("4. Rosas --- 9pts");
+            System.out.println("5. Saavedra --- 6pts");
+            System.out.println("6. Guemes --- 4pts");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        }
+            
+        return puntos;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    public static int pregunta6 (int puntos)
+    {
+        Scanner input = new Scanner (System.in);
+        int resueltopregunta=0;
+        int fallos=0, correcta=0, mensajefinal=0;
+        
+        int rta1=0, rta2=0, rta3=0, rta4=0, rta5=0, rta6=0;
+        String respuestapregunta = " ";
+            
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println(":");
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println("1. --- --- ---"); // Buenos Aires (PBA + CABA) - 32p --- 32pt
+        System.out.println("2. --- --- ---"); // Corodba - 15p --- 47pt
+        System.out.println("3. --- --- ---"); // Santa Fe - 12p --- 59pt
+        System.out.println("4. --- --- ---"); // Mendoza - 9p --- 68pt
+        System.out.println("5. --- --- ---"); // Tucuman - 7p --- 75pt
+        System.out.println("6. --- --- ---"); // Salta - 6p --- 81pt
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        
+        while (resueltopregunta==0)
+        {
+            respuestapregunta = input.nextLine();
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println(":");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            if (respuestapregunta.equalsIgnoreCase("Buenos Aires") || respuestapregunta.equalsIgnoreCase("CABA") || respuestapregunta.equalsIgnoreCase("Capital") && rta1 == 0)
+            {
+                rta1 = 1;
+                puntos += 32;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Cordoba") && rta2 == 0)
+            {
+                rta2 = 1;
+                puntos += 15;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Santa Fe") && rta3 == 0)
+            {
+                rta3 = 1;
+                puntos += 12;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Mendoza") && rta4 == 0)
+            {
+                rta4 = 1;
+                puntos += 9;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Tucuman") && rta5 == 0)
+            {
+                rta5 = 1;
+                puntos += 7;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Salta") && rta6 == 0)
+            {
+                rta6 = 1;
+                puntos += 6;
+                correcta = 1;
+            }
+            
+            
+            
+            if (rta1==1)
+                System.out.println("1. Buenos Aires (PBA + CABA) --- 32pts");
+            else
+                System.out.println("1. --- --- ---");
+            
+            if (rta2==1)
+                System.out.println("2. Cordoba --- 15pts");
+            else
+                System.out.println("2. --- --- ---");
+            
+            if (rta3==1)
+                System.out.println("3. Santa Fe --- 12pts");
+            else
+                System.out.println("3. --- --- ---");
+            
+            if (rta4==1)
+                System.out.println("4. Mendoza --- 9pts");
+            else
+                System.out.println("4. --- --- ---");
+            
+            if (rta5==1)
+                System.out.println("5. Tucuman --- 7pts");
+            else
+                System.out.println("5. --- --- ---");
+            
+            if (rta6==1)
+                System.out.println("6. Salta --- 6pts");
+            else
+                System.out.println("6. --- --- ---");
+            
+            
+            
+            if (correcta == 0)
+            {
+                fallos++;
+            }
+            correcta=0;
+            
+            if (fallos == 3)
+            {
+                resueltopregunta = 1;
+            }
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("PUNTOS: " +puntos);
+            System.out.println("FALLOS: " +fallos );
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            
+            if (rta1==1 && rta2==1 && rta3==1 && rta4==1 && rta5==1 &&rta6==1)
+            {
+                resueltopregunta = 1;
+                mensajefinal = 1;
+            }
+        }
+        
+        if (mensajefinal == 1)
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA COMPLETADA");
+            System.out.println(" ");
+        }
+        else
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA PERDIDA");
+            System.out.println(" ");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("1. Buenos Aires (PBA + CABA) --- 32pts");
+            System.out.println("2. Cordoba --- 15pts");
+            System.out.println("3. Santa Fe --- 12pts");
+            System.out.println("4. Mendoza --- 9pts");
+            System.out.println("5. Tucuman --- 7pts");
+            System.out.println("6. Salta --- 6pts");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        }
+            
+        return puntos;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    public static int pregunta6 (int puntos)
+    {
+        Scanner input = new Scanner (System.in);
+        int resueltopregunta=0;
+        int fallos=0, correcta=0, mensajefinal=0;
+        
+        int rta1=0, rta2=0, rta3=0, rta4=0, rta5=0, rta6=0;
+        String respuestapregunta = " ";
+            
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println("DIGA 6 RIOS DEL PAIS:");
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        System.out.println("1. --- --- ---"); // Rio de la Plata - 23p --- 23pt
+        System.out.println("2. --- --- ---"); // Rio Parana - 20p --- 43pt
+        System.out.println("3. --- --- ---"); // Rio Uruguay - 15p --- 58pt
+        System.out.println("4. --- --- ---"); // Rio Matanza - Riachuelo - 13p --- 71pt
+        System.out.println("5. --- --- ---"); // Rio Colorado - 7p --- 78pt
+        System.out.println("6. --- --- ---"); // Rio Pilcomayo  - 5p --- 83pt
+        System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+        
+        while (resueltopregunta==0)
+        {
+            respuestapregunta = input.nextLine();
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println(":");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            if (respuestapregunta.equalsIgnoreCase("Rio de la Plata") && rta1 == 0)
+            {
+                rta1 = 1;
+                puntos += 23;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rio Uruguay") || respuestapregunta.equalsIgnoreCase("Uruguay") && rta2 == 0)
+            {
+                rta2 = 1;
+                puntos += 20;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rio Parana") || respuestapregunta.equalsIgnoreCase("Parana") && rta3 == 0)
+            {
+                rta3 = 1;
+                puntos += 15;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rio Matanza") || respuestapregunta.equalsIgnoreCase("Matanza") || respuestapregunta.equalsIgnoreCase("Riachuelo") && rta4 == 0)
+            {
+                rta4 = 1;
+                puntos += 13;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rio Colorado") || respuestapregunta.equalsIgnoreCase("Colorado") && rta5 == 0)
+            {
+                rta5 = 1;
+                puntos += 7;
+                correcta = 1;
+            }
+            if (respuestapregunta.equalsIgnoreCase("Rio Pilcomayo") || respuestapregunta.equalsIgnoreCase("Pilcomayo") && rta6 == 0)
+            {
+                rta6 = 1;
+                puntos += 5;
+                correcta = 1;
+            }
+            
+            
+            
+            if (rta1==1)
+                System.out.println("1. Rio de la Plata --- 23pts");
+            else
+                System.out.println("1. --- --- ---");
+            
+            if (rta2==1)
+                System.out.println("2.Rio Parana  --- 20pts");
+            else
+                System.out.println("2. --- --- ---");
+            
+            if (rta3==1)
+                System.out.println("3. Rio Uruguay --- 15pts");
+            else
+                System.out.println("3. --- --- ---");
+            
+            if (rta4==1)
+                System.out.println("4. Rio Matanza - Riachuelo --- 13pts");
+            else
+                System.out.println("4. --- --- ---");
+            
+            if (rta5==1)
+                System.out.println("5. Rio Colorado --- 7pts");
+            else
+                System.out.println("5. --- --- ---");
+            
+            if (rta6==1)
+                System.out.println("6. Rio Pilcomayo --- 5pts");
+            else
+                System.out.println("6. --- --- ---");
+            
+            
+            
+            if (correcta == 0)
+            {
+                fallos++;
+            }
+            correcta=0;
+            
+            if (fallos == 3)
+            {
+                resueltopregunta = 1;
+            }
+            
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("PUNTOS: " +puntos);
+            System.out.println("FALLOS: " +fallos );
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            
+            
+            if (rta1==1 && rta2==1 && rta3==1 && rta4==1 && rta5==1 &&rta6==1)
+            {
+                resueltopregunta = 1;
+                mensajefinal = 1;
+            }
+        }
+        
+        if (mensajefinal == 1)
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA COMPLETADA");
+            System.out.println(" ");
+        }
+        else
+        {
+            System.out.println(" ");
+            System.out.println("PREGUNTA PERDIDA");
+            System.out.println(" ");
+            System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
+            System.out.println("1.  --- pts");
+            System.out.println("2.  --- pts");
+            System.out.println("3.  --- pts");
+            System.out.println("4.  --- pts");
+            System.out.println("5.  --- pts");
+            System.out.println("6.  --- pts");
             System.out.println("-- * -- * -- * -- * -- * -- * -- * --");
         }
             
