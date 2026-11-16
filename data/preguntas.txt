@@ -1,0 +1,390 @@
+[DIGA UNA FECHA PATRIA]
+9 de Julio; 9 Julio; 9/7 (28)
+25 de Mayo; 25 Mayo; 25/5 (22)
+2 de Abril; 2 Abril; 2/4 (15)
+20 de Junio; 20 Junio; 20/6 (11)
+24 de Marzo; 24 Marzo; 24/3 (9)
+20 de Noviembre; 20 Noviembre; 20/11 (4)
+
+[DIGA UN PARTIDO DE ZONA SUR]
+Quilmes (23)
+Ezeiza; eseiza (18)
+Avellaneda (15)
+Lomas de Zamora (12)
+Florencio Varela (9)
+Lanús (7)
+
+[DIGA UN PARTIDO DE ZONA NORTE]
+Tigre (21)
+José C. Paz; Jose C Paz (18)
+San Isidro (16)
+Vicente López (14)
+San Miguel (12)
+General San Martín; San Martin (9)
+
+[NOMBRÁ ALGO QUE UN ARGENTINO NO PUEDE DEJAR DE HACER]
+Tomar mate; Tomar unos mates; mate (35)
+Hablar de fútbol; Hablar sobre fútbol (25)
+Comer asado; Hacer un asado (18)
+Quejarse; Reclamar; Protestar (13)
+Mirar televisión; Ver televisión; mirar tele; ver tele (9)
+
+[NOMBRÁ ALGO QUE SE LE PONE AL MATE]
+Azúcar (35)
+Yerba; Yerba mate (25)
+Edulcorante (18)
+Yuyos; Hierbas (13)
+Cáscara de naranja; Piel de naranja (9)
+
+[NOMBRÁ UNA COMIDA TÍPICA ARGENTINA]
+Asado; Carne asada (35)
+Empanadas; Empanada (25)
+Milanesa; Milanesas (18)
+Locro (13)
+Choripán; Chori (9)
+
+[NOMBRÁ ALGO QUE UN ARGENTINO LLEVA A UN ASADO]
+Bebida; Bebidas; Gaseosa (35)
+Carne; Un corte de carne; carne (25)
+Pan; Pancitos (18)
+Ensalada (13)
+Postre; Algo dulce (9)
+
+[NOMBRÁ UNA EXPRESIÓN TÍPICA ARGENTINA]
+Boludo; Boluda (35)
+Che (25)
+Dale (18)
+Re piola; Piola (13)
+De una (9)
+
+[NOMBRÁ ALGO QUE SE HACE UN DOMINGO EN FAMILIA]
+Comer asado; Hacer un asado (35)
+Mirar televisión; Ver televisión (25)
+Visitar familiares; Visitar a la familia (18)
+Dormir la siesta; Siestear (13)
+Jugar a las cartas; Jugar cartas (9)
+
+[NOMBRÁ UNA MARCA DE YERBA MATE]
+Playadito; Playadito suave (35)
+Taragüi; Taragui (25)
+Rosamonte (18)
+Amanda (13)
+Cruz de Malta; Cruz Malta (9)
+
+[NOMBRÁ ALGO QUE SE COMPRA EN UNA PANADERÍA]
+Facturas; Medialunas (35)
+Pan; Pan común (25)
+Bizcochos; Bizcochitos (18)
+Sándwiches de miga; Sandwich de miga; Sándwich de miga (13)
+Tortas; Pasteles (9)
+
+[NOMBRÁ UNA PROVINCIA ARGENTINA]
+Buenos Aires; Provincia de Buenos Aires (35)
+Córdoba; Cordoba (25)
+Mendoza (18)
+Santa Fe (13)
+Salta (9)
+
+[NOMBRÁ ALGO QUE HACEN LOS ARGENTINOS CUANDO JUEGA LA SELECCIÓN]
+Mirar el partido; Ver el partido (35)
+Gritar los goles; Gritar cuando hay un gol (25)
+Juntarse con amigos; Reunirse con amigos (18)
+Usar la camiseta; Ponerse la camiseta (13)
+Comer asado; Hacer un asado (9)
+
+[NOMBRÁ UN EQUIPO DE FÚTBOL ARGENTINO]
+Boca Juniors; Boca (35)
+River Plate; River (25)
+Independiente (18)
+Racing; Racing Club (13)
+San Lorenzo; CASLA (9)
+
+[NOMBRÁ UN FUTBOLISTA ARGENTINO FAMOSO]
+Lionel Messi; Messi (35)
+Diego Maradona; Maradona (25)
+Ángel Di María; Di María (18)
+Julián Álvarez (13)
+Lautaro Martínez; Lautaro (9)
+
+[NOMBRÁ ALGO QUE HAY EN UNA CANCHA DE FÚTBOL]
+Pelota; Balón (35)
+Arcos; Arco (25)
+Hinchas; Público; Espectadores (18)
+Árbitro; Referí (13)
+Banderas (9)
+
+[NOMBRÁ UNA POSICIÓN DE UN JUGADOR DE FÚTBOL]
+Delantero; Atacante (35)
+Arquero; Portero; Guardameta (25)
+Defensor; Defensa (18)
+Mediocampista; Medio (13)
+Volante (9)
+
+[NOMBRÁ ALGO QUE HACE UN HINCHA CUANDO SU EQUIPO PIERDE]
+Se enoja; Se enfada (35)
+Insulta; Dice insultos (25)
+Se pone triste; Se deprime (18)
+Apaga la televisión; Apaga la tele (13)
+Culpa al árbitro; Le echa la culpa al árbitro (9)
+
+[NOMBRÁ UN DEPORTE QUE SE PRACTIQUE CON PELOTA]
+Fútbol (35)
+Básquet; Básquetbol; Baloncesto (25)
+Vóley; Voleibol (18)
+Tenis (13)
+Rugby (9)
+
+[NOMBRÁ ALGO QUE LLEVA UN ÁRBITRO]
+Silbato; Pito (35)
+Tarjetas; Tarjeta amarilla; Tarjeta roja (25)
+Reloj; Cronómetro (18)
+Uniforme; Camiseta de árbitro (13)
+Libreta; Cuaderno (9)
+
+[NOMBRÁ UN PAÍS QUE HAYA GANADO UN MUNDIAL DE FÚTBOL]
+Argentina (35)
+Brasil (25)
+Alemania (18)
+Italia (13)
+Francia (9)
+
+[NOMBRÁ ALGO QUE SE CANTA EN UNA CANCHA]
+Canciones de aliento; Cantos de aliento; Cánticos (35)
+Himno del club; Himno del equipo (25)
+Canciones contra el rival; Cantos contra el otro equipo (18)
+Dale campeón; Vamos campeón (13)
+Olé, olé, olé; Ole ole ole (9)
+
+[NOMBRÁ UNA EXCUSA QUE PONE ALGUIEN CUANDO PIERDE UN PARTIDO]
+El árbitro fue injusto; El árbitro nos perjudicó (35)
+El otro equipo hizo trampa; Hicieron trampa (25)
+Estaba cansado; Estaba agotado (18)
+La cancha estaba mal; La cancha estaba en malas condiciones (13)
+No tenía ganas; No quería jugar (9)
+
+[NOMBRÁ UNA COMIDA QUE SE PUEDE PEDIR POR DELIVERY]
+Pizza; Pizzas (35)
+Hamburguesa; Hamburguesas (25)
+Empanadas; Empanada (18)
+Sushi (13)
+Milanesa; Milanesas (9)
+
+[NOMBRÁ UN GUSTO DE HELADO]
+Chocolate (35)
+Dulce de leche (25)
+Frutilla; Fresa (18)
+Vainilla (13)
+Limón (9)
+
+[NOMBRÁ ALGO QUE SE LE PONE A UNA PIZZA]
+Mozzarella; Muzzarella; Queso (35)
+Jamón (25)
+Aceitunas; Aceituna (18)
+Tomate (13)
+Orégano (9)
+
+[NOMBRÁ UNA COMIDA QUE SE COME CON LAS MANOS]
+Hamburguesa; Hamburguesas (35)
+Pizza; Porción de pizza (25)
+Empanada; Empanadas (18)
+Sándwich; Sandwich (13)
+Pancho; Hot dog; Perro caliente (9)
+
+[NOMBRÁ ALGO QUE SE DESAYUNA]
+Café (35)
+Mate (25)
+Tostadas; Pan tostado (18)
+Facturas; Medialunas (13)
+Té; Te (9)
+
+[NOMBRÁ UNA BEBIDA QUE SE SIRVE FRÍA]
+Gaseosa; Refresco (35)
+Agua; Agua fría (25)
+Jugo; Zumo (18)
+Cerveza (13)
+Limonada (9)
+
+[NOMBRÁ UNA COMIDA QUE NO LE GUSTA A MUCHOS CHICOS]
+Verduras; Vegetales (35)
+Pescado (25)
+Brócoli (18)
+Sopa (13)
+Berenjena (9)
+
+[NOMBRÁ ALGO QUE ENCONTRÁS EN UNA HELADERA]
+Leche (35)
+Huevos (25)
+Queso (18)
+Verduras; Vegetales (13)
+Agua (9)
+
+[NOMBRÁ UNA COMIDA TÍPICA DE NAVIDAD]
+Vitel toné; Vitel tone (35)
+Ensalada rusa (25)
+Asado; Carne asada (18)
+Pollo; Pollo al horno (13)
+Pan dulce; Panettone (9)
+
+[NOMBRÁ ALGO QUE SE PUEDE PONER DENTRO DE UN SÁNDWICH]
+Jamón (35)
+Queso (25)
+Lechuga (18)
+Tomate (13)
+Huevo; Huevo duro (9)
+
+[NOMBRÁ UNA RED SOCIAL POPULAR]
+Instagram; Insta (35)
+TikTok; Tik Tok (25)
+Facebook; Face (18)
+Twitter; X (13)
+Snapchat; Snap (9)
+
+[NOMBRÁ UN VIDEOJUEGO FAMOSO]
+Minecraft (35)
+GTA; Grand Theft Auto (25)
+Fortnite (18)
+Roblox (13)
+Free Fire; Garena Free Fire (9)
+Sonic (99999999999999999999999999999999)
+
+[NOMBRÁ UNA PELÍCULA DE TERROR]
+El Conjuro; The Conjuring (35)
+Chucky; El muñeco diabólico (25)
+It; Eso (18)
+La Monja; The Nun (13)
+Annabelle (9)
+
+[NOMBRÁ UNA PLATAFORMA PARA VER SERIES Y PELÍCULAS]
+Netflix (35)
+Disney+; Disney Plus; Star+; Star Plus (25)
+HBO Max; Max (18)
+Prime Video; Amazon Prime Video (13)
+YouTube; Youtube (9)
+
+[NOMBRÁ ALGO QUE HACÉS CUANDO ESTÁS ABURRIDO]
+Mirar TikTok; Ver TikTok; Scrollear TikTok; pudrir mi cerebro (35)
+Jugar videojuegos; Jugar juegos; partida gamer; gaming (25)
+Dormir; Irse a dormir (18)
+Escuchar música; Oír música (13)
+Mirar televisión; Ver televisión (9)
+
+[NOMBRÁ UN PERSONAJE DE DIBUJOS ANIMADOS]
+Bob Esponja; SpongeBob; Bob Esponja Pantalones Cuadrados; SpongeBob SquarePants (35)
+Homero Simpson; Homer Simpson; Homero (25)
+Mickey Mouse; Mickey (18)
+Bugs Bunny (13)
+Goku (9)
+
+[NOMBRÁ UN CANTANTE ARGENTINO]
+Duki (35)
+Lali; Lali Espósito (25)
+María Becerra (18)
+Abel Pintos (13)
+Trueno (9)
+
+[NOMBRÁ ALGO QUE LA GENTE SUELE MIRAR EN YOUTUBE]
+Videos musicales; Videoclips; Videos de música (35)
+Gameplays; Videos de videojuegos (25)
+Tutoriales; Guías (18)
+Videos graciosos; Videos de humor; Videos divertidos (13)
+Podcasts; Podcast (9)
+
+[NOMBRÁ UNA EXCUSA PARA NO SALIR DE CASA]
+Estoy cansado; Estoy cansada; Tengo sueño (35)
+No tengo plata; No tengo dinero (25)
+Hace frío; Está haciendo frío (18)
+Tengo que estudiar; Debo estudiar (13)
+No tengo ganas; No quiero salir (9)
+
+[NOMBRÁ ALGO QUE HACÉS ANTES DE IRTE A DORMIR]
+Cepillarse los dientes; Lavarse los dientes (35)
+Mirar el celular; Revisar el teléfono; Scrollear; Mirar redes sociales, Ver redes sociales, Ver notificaciones, mirar notificaciones (25)
+Ponerse el pijama; Cambiarse (18)
+Ir al baño; Hacer pis (13)
+Poner la alarma; Programar la alarma (9)
+
+[NOMBRÁ ALGO QUE LA GENTE SUELE PERDER]
+Llaves; Las llaves (35)
+Celular; Teléfono; Móvil (25)
+Billetera; Cartera (18)
+Anteojos; Gafas; Lentes (13)
+Control remoto; Mando a distancia (9)
+
+[NOMBRÁ ALGO QUE DA MIEDO]
+Fantasmas; Espíritus (35)
+Arañas (25)
+La oscuridad; La noche (18)
+Películas de terror (13)
+Alturas; Los lugares altos (9)
+
+[NOMBRÁ UNA EXCUSA PARA LLEGAR TARDE]
+Había tráfico; Había mucho tránsito; tráfico; tránsito (35)
+Me quedé dormido; Me dormí (25)
+Perdí el colectivo (18)
+No sonó la alarma; La alarma no sonó (13)
+Tuve un problema; Surgió un inconveniente; problema (9)
+
+[NOMBRÁ ALGO QUE NUNCA PRESTARÍAS]
+Celular; Teléfono; Móvil (35)
+Auto; Coche; Carro (25)
+Dinero; Plata (18)
+Ropa; Prendas (13)
+Computadora; PC; Ordenador (9)
+
+[NOMBRÁ ALGO QUE HACÉS CUANDO NADIE TE ESTÁ MIRANDO]
+Bailar; Ponerse a bailar (35)
+Cantar; Cantar solo (25)
+Hablar solo; Conversar con uno mismo (18)
+Hacer caras; Hacer muecas (13)
+Comer a escondidas; Comer en secreto (9)
+
+[NOMBRÁ ALGO QUE TE PUEDE DESPERTAR A LA MADRUGADA]
+Una alarma; El despertador (35)
+Un ruido fuerte; Un golpe fuerte (25)
+Un perro ladrando; Ladridos de un perro (18)
+Una pesadilla; Un mal sueño (13)
+El celular; El teléfono (9)
+
+[NOMBRÁ ALGO QUE LLEVÁS A LA PLAYA]
+Toalla (35)
+Protector solar; Bloqueador solar (25)
+Sombrilla; Parasol (18)
+Malla; Traje de baño; Bañador (13)
+Ojotas; Chanclas; Sandalias (9)
+
+[NOMBRÁ ALGO QUE TE OLVIDÁS CUANDO SALÍS DE CASA]
+Llaves; Las llaves (35)
+Celular; Teléfono; Móvil; Teléfono Celular; Teléfono Móvil (25)
+Billetera; Cartera (18)
+Anteojos; Gafas; Lentes (13)
+Mochila; Bolso (9)
+
+[NOMBRÁ ALGO QUE PUEDE ARRUINAR UNA PRIMERA CITA]
+Llegar tarde; Aparecer tarde (35)
+Ser maleducado; Ser grosero; Tener malos modales (25)
+Hablar del ex; Hablar de la expareja (18)
+No tener tema de conversación; No saber de qué hablar (13)
+Que suene el celular constantemente; Que el teléfono no deje de sonar; Notificaciones del teléfono (9)
+
+[NOMBRÁ ALGO QUE HACÉS CUANDO SE CORTA LA LUZ]
+Buscar una linterna; Encender una linterna (35)
+Prender una vela; Encender una vela (25)
+Mirar el celular; Revisar el teléfono (18)
+Quejarse; Protestar (13)
+Salir a ver qué pasó; Mirar qué ocurrió (9)
+
+[NOMBRÁ EL PERSONAJE DE SONIC MÁS CONOCIDO, DESPUÉS DE SONIC]
+Tails (35)
+Knuckles (25)
+Shadow (18)
+Amy Rose (13)
+Dr. Eggman; Robotnik; Dr. Ivo Robotnik; Eggman (9)
+
+[NOMBRÁ UNA CONSOLA DE VIDEOJUEGOS]
+PlayStation 4; Play 4; PS4 (46)
+Nintendo Switch; Switch (21)
+PlayStation 2; Play 2; PS2 (11)
+SEGA Génesis/Mega Drive; SEGA Génesis; SEGA Mega Drive; Génesis; Mega Drive (8)
+Nintendo Entertainment System; NES (7)
+PlayStation 5; Play 5; PS5 (5)
+Nintendo DS; DS (2)

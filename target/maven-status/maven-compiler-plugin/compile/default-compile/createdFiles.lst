@@ -1,2 +1,8 @@
+QuestionReader.class
+Answer.class
+GameWindow$1.class
+GameWindow.class
 App.class
-paquete1\NewJFrame.class
+Game.class
+AnswerMatcher.class
+Question.class
