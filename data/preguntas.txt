@@ -8,10 +8,10 @@
 
 [DIGA UN PARTIDO DE ZONA SUR]
 Quilmes (23)
-Ezeiza; eseiza (18)
+Ezeiza; Eseiza (18)
 Avellaneda (15)
-Lomas de Zamora (12)
-Florencio Varela (9)
+Lomas de Zamora; Lomas (12)
+Florencio Varela; Varela (9)
 Lanús (7)
 
 [DIGA UN PARTIDO DE ZONA NORTE]
@@ -24,17 +24,17 @@ General San Martín; San Martin (9)
 
 [NOMBRÁ ALGO QUE UN ARGENTINO NO PUEDE DEJAR DE HACER]
 Tomar mate; Tomar unos mates; mate (35)
-Hablar de fútbol; Hablar sobre fútbol (25)
+Hablar de fútbol; Hablar sobre fútbol; fútbol (25)
 Comer asado; Hacer un asado (18)
-Quejarse; Reclamar; Protestar (13)
-Mirar televisión; Ver televisión; mirar tele; ver tele (9)
+Quejarse; Reclamar; Protestar; Putear (13)
+Mirar televisión; Ver televisión; mirar tele; ver tele; ver la tele; mirar la tele (9)
 
 [NOMBRÁ ALGO QUE SE LE PONE AL MATE]
 Azúcar (35)
 Yerba; Yerba mate (25)
 Edulcorante (18)
 Yuyos; Hierbas (13)
-Cáscara de naranja; Piel de naranja (9)
+Cáscara de naranja; Piel de naranja; naranja (9)
 
 [NOMBRÁ UNA COMIDA TÍPICA ARGENTINA]
 Asado; Carne asada (35)
@@ -75,7 +75,7 @@ Cruz de Malta; Cruz Malta (9)
 Facturas; Medialunas (35)
 Pan; Pan común (25)
 Bizcochos; Bizcochitos (18)
-Sándwiches de miga; Sandwich de miga; Sándwich de miga (13)
+Sándwiches de miga; Sandwich de miga; Sándwich de miga; Sánguche de miga; Sánguches de miga (13)
 Tortas; Pasteles (9)
 
 [NOMBRÁ UNA PROVINCIA ARGENTINA]
@@ -87,7 +87,7 @@ Salta (9)
 
 [NOMBRÁ ALGO QUE HACEN LOS ARGENTINOS CUANDO JUEGA LA SELECCIÓN]
 Mirar el partido; Ver el partido (35)
-Gritar los goles; Gritar cuando hay un gol (25)
+Gritar los goles; Gritar cuando hay un gol; gritar; festejar gol; festejar goles; festejar (25)
 Juntarse con amigos; Reunirse con amigos (18)
 Usar la camiseta; Ponerse la camiseta (13)
 Comer asado; Hacer un asado (9)
@@ -111,21 +111,21 @@ Pelota; Balón (35)
 Arcos; Arco (25)
 Hinchas; Público; Espectadores (18)
 Árbitro; Referí (13)
-Banderas (9)
+Banderas; banderines (9)
 
 [NOMBRÁ UNA POSICIÓN DE UN JUGADOR DE FÚTBOL]
 Delantero; Atacante (35)
 Arquero; Portero; Guardameta (25)
 Defensor; Defensa (18)
 Mediocampista; Medio (13)
-Volante (9)
+Lateral; volante (9)
 
 [NOMBRÁ ALGO QUE HACE UN HINCHA CUANDO SU EQUIPO PIERDE]
-Se enoja; Se enfada (35)
-Insulta; Dice insultos (25)
-Se pone triste; Se deprime (18)
+Se enoja; Se enfada; enojarse (35)
+Insulta; Dice insultos; putear; quejarse (25)
+Se pone triste; Se deprime; ser triste; ponerse triste; llorar; ponerse a llorar (18)
 Apaga la televisión; Apaga la tele (13)
-Culpa al árbitro; Le echa la culpa al árbitro (9)
+Culpa al árbitro; Le echa la culpa al árbitro; putear al árbitro; ROBO (9)
 
 [NOMBRÁ UN DEPORTE QUE SE PRACTIQUE CON PELOTA]
 Fútbol (35)
@@ -156,11 +156,11 @@ Dale campeón; Vamos campeón (13)
 Olé, olé, olé; Ole ole ole (9)
 
 [NOMBRÁ UNA EXCUSA QUE PONE ALGUIEN CUANDO PIERDE UN PARTIDO]
-El árbitro fue injusto; El árbitro nos perjudicó (35)
-El otro equipo hizo trampa; Hicieron trampa (25)
-Estaba cansado; Estaba agotado (18)
-La cancha estaba mal; La cancha estaba en malas condiciones (13)
-No tenía ganas; No quería jugar (9)
+ROBO; hubo robo; fue robo (35)
+El árbitro fue injusto; El árbitro nos perjudicó; árbitro injusto; mal árbitro; árbitro (25)
+El otro equipo hizo trampa; Hicieron trampa; nos robaron; culpa del chiquitapia; culpa del chiqui tapia (18)
+Estaban comprados; se compraron; había una conspiración (13)
+La cancha estaba mal; La cancha estaba en malas condiciones (9)
 
 [NOMBRÁ UNA COMIDA QUE SE PUEDE PEDIR POR DELIVERY]
 Pizza; Pizzas (35)
@@ -184,11 +184,11 @@ Tomate (13)
 Orégano (9)
 
 [NOMBRÁ UNA COMIDA QUE SE COME CON LAS MANOS]
-Hamburguesa; Hamburguesas (35)
-Pizza; Porción de pizza (25)
+Hamburguesa; Hamburguesas; burger (35)
+Pizza; Porción de pizza; pizzas (25)
 Empanada; Empanadas (18)
-Sándwich; Sandwich (13)
-Pancho; Hot dog; Perro caliente (9)
+Sándwich; Sándwiches; sánguche; sánguches (13)
+Pancho; Hot dog; Perro caliente; panchos; hot dogs; perros calientes (9)
 
 [NOMBRÁ ALGO QUE SE DESAYUNA]
 Café (35)
@@ -204,12 +204,12 @@ Jugo; Zumo (18)
 Cerveza (13)
 Limonada (9)
 
-[NOMBRÁ UNA COMIDA QUE NO LE GUSTA A MUCHOS CHICOS]
+[NOMBRÁ UNA COMIDA QUE NO LE GUSTA A MUCHOS NIÑOS]
 Verduras; Vegetales (35)
 Pescado (25)
 Brócoli (18)
 Sopa (13)
-Berenjena (9)
+Hígado (9)
 
 [NOMBRÁ ALGO QUE ENCONTRÁS EN UNA HELADERA]
 Leche (35)
@@ -244,8 +244,7 @@ Minecraft (35)
 GTA; Grand Theft Auto (25)
 Fortnite (18)
 Roblox (13)
-Free Fire; Garena Free Fire (9)
-Sonic (99999999999999999999999999999999)
+Geometry Dash (9)
 
 [NOMBRÁ UNA PELÍCULA DE TERROR]
 El Conjuro; The Conjuring (35)
@@ -257,9 +256,9 @@ Annabelle (9)
 [NOMBRÁ UNA PLATAFORMA PARA VER SERIES Y PELÍCULAS]
 Netflix (35)
 Disney+; Disney Plus; Star+; Star Plus (25)
-HBO Max; Max (18)
-Prime Video; Amazon Prime Video (13)
-YouTube; Youtube (9)
+HBO Max; Max; HBO (18)
+Amazon Prime Video; Prime Video (13)
+Paramount+; Paramount Plus; Paramount (9)
 
 [NOMBRÁ ALGO QUE HACÉS CUANDO ESTÁS ABURRIDO]
 Mirar TikTok; Ver TikTok; Scrollear TikTok; pudrir mi cerebro (35)
@@ -275,17 +274,18 @@ Mickey Mouse; Mickey (18)
 Bugs Bunny (13)
 Goku (9)
 
-[NOMBRÁ UN CANTANTE ARGENTINO]
-Duki (35)
-Lali; Lali Espósito (25)
-María Becerra (18)
-Abel Pintos (13)
-Trueno (9)
+[NOMBRÁ UN CANTANTE]
+Michael Jackson (40)
+Lady Gaga; Gaga (23)
+John Lennon; Jhon Lennon; John Lemmon; Jhon Lemmon (15)
+Freddy Mercury (12)
+Taylor Swift (10)
+
 
 [NOMBRÁ ALGO QUE LA GENTE SUELE MIRAR EN YOUTUBE]
-Videos musicales; Videoclips; Videos de música (35)
-Gameplays; Videos de videojuegos (25)
-Tutoriales; Guías (18)
+Videos musicales; Videoclips; Videos de música; música (35)
+Gameplays; Videos de videojuegos; videojuegos; juegos (25)
+Tutoriales; Guías; Videoguías (18)
 Videos graciosos; Videos de humor; Videos divertidos (13)
 Podcasts; Podcast (9)
 
@@ -356,35 +356,33 @@ Ojotas; Chanclas; Sandalias (9)
 Llaves; Las llaves (35)
 Celular; Teléfono; Móvil; Teléfono Celular; Teléfono Móvil (25)
 Billetera; Cartera (18)
-Anteojos; Gafas; Lentes (13)
+SUBE; La SUBE; La tarjeta SUBE; El Sistema Único de Boleto Electrónico (13)
 Mochila; Bolso (9)
 
 [NOMBRÁ ALGO QUE PUEDE ARRUINAR UNA PRIMERA CITA]
 Llegar tarde; Aparecer tarde (35)
-Ser maleducado; Ser grosero; Tener malos modales (25)
+Ser maleducado; Ser grosero; Tener malos modales; maleducado (25)
 Hablar del ex; Hablar de la expareja (18)
 No tener tema de conversación; No saber de qué hablar (13)
-Que suene el celular constantemente; Que el teléfono no deje de sonar; Notificaciones del teléfono (9)
+Que suene el celular constantemente; Que el teléfono no deje de sonar; Notificaciones del teléfono; llamadas; llamadas constantes; mucha llamada (9)
 
 [NOMBRÁ ALGO QUE HACÉS CUANDO SE CORTA LA LUZ]
-Buscar una linterna; Encender una linterna (35)
-Prender una vela; Encender una vela (25)
+Buscar una linterna; Encender una linterna; linterna; prender linterna (35)
+Prender una vela; Encender una vela; prender velas; velas (25)
 Mirar el celular; Revisar el teléfono (18)
-Quejarse; Protestar (13)
-Salir a ver qué pasó; Mirar qué ocurrió (9)
+Quejarse; Protestar; putear; insultar (13)
+Salir a ver qué pasó; Mirar qué ocurrió; mirar al vecino; mirar vecinos; mirar la calle; ver al vecino; ver a los vecinos; ver la calle (9)
 
 [NOMBRÁ EL PERSONAJE DE SONIC MÁS CONOCIDO, DESPUÉS DE SONIC]
 Tails (35)
-Knuckles (25)
+Knuckles; knukles; knucles (25)
 Shadow (18)
-Amy Rose (13)
-Dr. Eggman; Robotnik; Dr. Ivo Robotnik; Eggman (9)
+Amy Rose; Amy (13)
+Dr. Eggman; Robotnik; Dr. Ivo Robotnik; Eggman; Ivo Robotnik (9)
 
 [NOMBRÁ UNA CONSOLA DE VIDEOJUEGOS]
-PlayStation 4; Play 4; PS4 (46)
-Nintendo Switch; Switch (21)
-PlayStation 2; Play 2; PS2 (11)
-SEGA Génesis/Mega Drive; SEGA Génesis; SEGA Mega Drive; Génesis; Mega Drive (8)
-Nintendo Entertainment System; NES (7)
-PlayStation 5; Play 5; PS5 (5)
-Nintendo DS; DS (2)
+PlayStation 2; Play 2; PS2 (35)
+Nintendo Switch; Switch (25)
+Xbox 360 (20)
+SEGA Génesis/Mega Drive; SEGA Génesis; SEGA Mega Drive; Génesis; Mega Drive (11)
+Nintendo Entertainment System; NES (9)
